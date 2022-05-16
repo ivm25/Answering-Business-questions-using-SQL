@@ -19,4 +19,3 @@ Helping the Business team at Chinook to understand the transactions better:
 
 3. Source of Data
 
-https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
