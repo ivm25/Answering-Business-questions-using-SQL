@@ -5,13 +5,20 @@
 
 1. Aim of the project
 ***
-Identify key indicators of Revenue for Chinook Music store
+Explore the Chinook database using SQL and provide the store with some actionable insights on the outlined Business problems.
 
-Business problem:
-Helping the Business team at Chinook to understand the transactions better:
 
 **Can we take an informed decision about the revenue indicators** 
      **and communicate to the business teams and come up with away effective strategies?**
+
+
+Business problems:
+
+- *Problem 1*: Helping the Business team at Chinook to understand which Genres sell the most, in order to help the new deal with a record label. Focus Territory: USA
+
+- *Problem 2*: Identify which employees are bringing in most revenue sales.
+
+- *Problem 3*: Understand the track/album purchases from different countries.
 
     
 2. Assumptions
@@ -19,3 +26,4 @@ Helping the Business team at Chinook to understand the transactions better:
 
 3. Source of Data
 
+https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSources
