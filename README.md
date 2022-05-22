@@ -15,6 +15,7 @@ Explore the Chinook database using SQL and provide the store with some actionabl
 Business problems:
 
 - *Problem 1*: Helping the Business team at Chinook to understand which Genres sell the most, in order to help the new deal with a record label. Focus Territory: USA
+![image](https://user-images.githubusercontent.com/44321100/169695976-04d99ac0-e4ae-442f-a418-7363f62c8f2c.png)
 
 - *Problem 2*: Identify which employees are bringing in most revenue sales.
 
