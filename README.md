@@ -20,6 +20,7 @@ Business problems:
 - *Problem 2*: Identify which employees are bringing in most revenue sales.
 
 - *Problem 3*: Understand the track/album purchases from different countries.
+![image](https://user-images.githubusercontent.com/44321100/170893970-749fa676-ce3f-409e-8e8f-e00a5d779c2b.png)
 
     
 2. Assumptions
