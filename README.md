@@ -23,9 +23,19 @@ Business problems:
 ![image](https://user-images.githubusercontent.com/44321100/170893970-749fa676-ce3f-409e-8e8f-e00a5d779c2b.png)
 
     
-2. Assumptions
 
-
-3. Source of Data
+2. Source of Data
 
 https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSources
+
+3. Future Work:
+***
+*It will be good to answe the questions below using custom queries*
+
+1. Which artist is used in the most playlists?
+
+2. How many tracks have been purchased vs not purchased?
+
+3. Is the range of tracks in the store reflective of their sales popularity?
+
+Do protected vs non-protected media types have an effect on popularity?
