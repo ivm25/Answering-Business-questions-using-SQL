@@ -6,7 +6,7 @@
 1. Aim of the project
 ***
 Explore the Chinook database using SQL and provide the store with some actionable insights on the outlined Business problems.
-
+![ERD_chinook](https://user-images.githubusercontent.com/44321100/171297555-cb119a2a-a0d6-4e8b-85bb-34f7943ff84a.png)
 
 **Can we take an informed decision about the revenue indicators** 
      **and communicate to the business teams and come up with away effective strategies?**
