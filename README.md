@@ -30,7 +30,7 @@ https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSour
 
 3. Future Work:
 ***
-*It will be good to answe the questions below using custom queries*
+*It will be good to answer the questions below using custom queries*
 
 1. Which artist is used in the most playlists?
 
