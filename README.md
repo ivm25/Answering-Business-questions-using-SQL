@@ -48,13 +48,13 @@ https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSour
 4. *Files and descriptions in the repository*
 ***
 
-    a. *.ipynb file* : Jupyter file that forms the main analysis file. Comprises of all the *SQL* queries.
+    a. .ipynb file : Jupyter file that forms the main analysis file. Comprises of all the *SQL* queries.
 
-    b. *.sql files* : Individual .sql files that can run independently, with an absolute path to the chinook.sqlite database
+    b. .sql files : Individual .sql files that can run independently, with an absolute path to the chinook.sqlite database
 
-    c. *.sqlite database*: Chinook database (sqlite) that is being analysed in this project.
+    c. .sqlite database: Chinook database (sqlite) that is being analysed in this project.
 
-    d. *.pbix file* : Power BI file that has a connection to the attached database and also consists of the key charts. To make it work, install the sqlite ODBC driver, using this link: http://www.ch-werner.de/sqliteodbc/
+    d. .pbix file : Power BI file that has a connection to the attached database and also consists of the key charts. To make it work, install the sqlite ODBC driver, using this link: http://www.ch-werner.de/sqliteodbc/
 
-    e. *ERD png*: Generated using dBeaver community edition.
+    e. ERD png: Generated using dBeaver community edition.
 
