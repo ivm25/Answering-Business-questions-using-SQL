@@ -16,7 +16,8 @@ The ERD of the Chinook database can be referenced here:
 ![ERD_chinook](https://user-images.githubusercontent.com/44321100/171297555-cb119a2a-a0d6-4e8b-85bb-34f7943ff84a.png)
 
 - Charts: All charts are created in Power BI and are available for reference in the .pbix file, attached in the repository.
-Business problems:
+***
+    Business problems:
 ***
 - *Business Problem 1*: Helping the Business team at Chinook to understand which Genres sell the most, in order to help the new deal with a record label. Focus Territory: USA
 
@@ -45,7 +46,7 @@ https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSour
     d. Do protected vs non-protected media types have an effect on popularity?
 
 
-4. *Files and descriptions in the repository*
+4. *Files/installations and their descriptions*
 ***
 
     a. .ipynb file : Jupyter file that forms the main analysis file. Comprises of all the *SQL* queries.
