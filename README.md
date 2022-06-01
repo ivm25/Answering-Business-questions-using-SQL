@@ -1,9 +1,11 @@
 # Answering-Business-questions-using-SQL
+***
+
 
 ## Portfolio: Answering Busineess questions on Chinook database using SQL
 
 
-1. Aim of the project
+1. *Aim of the project*
 ***
 Explore the Chinook database using SQL and provide the store with some actionable insights on the outlined Business problems.
 
@@ -13,9 +15,9 @@ Explore the Chinook database using SQL and provide the store with some actionabl
 The ERD of the Chinook database can be referenced here:
 ![ERD_chinook](https://user-images.githubusercontent.com/44321100/171297555-cb119a2a-a0d6-4e8b-85bb-34f7943ff84a.png)
 
+- Charts: All charts are created in Power BI and are available for reference in the .pbix file, attached in the repository.
 Business problems:
 ***
-- Note: All charts are ontructed in Power BI and are available for reference in the .pbix file.
 - *Business Problem 1*: Helping the Business team at Chinook to understand which Genres sell the most, in order to help the new deal with a record label. Focus Territory: USA
 
 ![image](https://user-images.githubusercontent.com/44321100/169695976-04d99ac0-e4ae-442f-a418-7363f62c8f2c.png)
@@ -26,19 +28,29 @@ Business problems:
 ![image](https://user-images.githubusercontent.com/44321100/170893970-749fa676-ce3f-409e-8e8f-e00a5d779c2b.png)
 
     
-
-2. Source of Data
+2. *Source of Data*
 
 https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSources
 
-3. Future Work:
+3. *Future Work*:
 ***
 *It will be good to answer the questions below using custom queries*
 
-1. Which artist is used in the most playlists?
+a. Which artist is used in the most playlists?
 
-2. How many tracks have been purchased vs not purchased?
+b. How many tracks have been purchased vs not purchased?
 
-3. Is the range of tracks in the store reflective of their sales popularity?
+c. Is the range of tracks in the store reflective of their sales popularity?
 
-4. Do protected vs non-protected media types have an effect on popularity?
+d. Do protected vs non-protected media types have an effect on popularity?
+
+
+4. *Files and descriptions in the repository*
+***
+
+a. *.ipynb file* : Jupyter file that forms the main analysis file. Comprises of all the *SQL* queries.
+b. *.sql files* : Individual .sql files that can run independently, with an absolute path to the chinook.sqlite database
+c. *.sqlite database*: Chinook database (sqlite) that is being analysed in this project.
+d. *.pbix file* : Power BI file that has a connection to the attached database and also consists of the key charts. To make it work, install the sqlite ODBC driver, using this link: http://www.ch-werner.de/sqliteodbc/
+e. *ERD png*: Generated using dBeaver community edition.
+
