@@ -18,8 +18,9 @@
 ***
     Business problems:
 ***
-    - Business Problem 1: Helping the Business team at Chinook to understand which Genres sell the most, in order to help the new deal with a record label. Focus Territory: USA
-    - Output results from query (percentage_of_tracks_USA.sql) in the repository.
+    - Business Problem 1: Helping the Business team at Chinook to understand which Genres sell the most, 
+      in order to help the new deal with a record label. Focus Territory: USA
+    - Output results used in the chart below come from the query (percentage_of_tracks_USA.sql) in the repository.
     
 ![image](https://user-images.githubusercontent.com/44321100/169695976-04d99ac0-e4ae-442f-a418-7363f62c8f2c.png)
 
@@ -49,7 +50,7 @@
 4. *Files/installations and their descriptions*
 ***
 
-    a. .ipynb file : Jupyter file that forms the main analysis file. Comprises of all the *SQL* queries.
+    a. .ipynb file : Jupyter file that forms the main analysis file. Comprises of all the SQL queries. 
 
     b. .sql files : Individual .sql files that can run independently, with an absolute path to the chinook.sqlite database
 
