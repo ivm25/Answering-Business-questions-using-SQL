@@ -18,13 +18,14 @@
 ***
     Business problems:
 ***
-- *Business Problem 1*: Helping the Business team at Chinook to understand which Genres sell the most, in order to help the new deal with a record label. Focus Territory: USA
-
+    - Business Problem 1: Helping the Business team at Chinook to understand which Genres sell the most, in order to help the new deal with a record label. Focus Territory: USA
+    - Output results from query (percentage_of_tracks_USA.sql) in the repository.
+    
 ![image](https://user-images.githubusercontent.com/44321100/169695976-04d99ac0-e4ae-442f-a418-7363f62c8f2c.png)
 
-- *Business Problem 2*: Identify which employees are bringing in most revenue sales.
+    - Business Problem 2: Identify which employees are bringing in most revenue sales.
 
-- *Business Problem 3*: Understand the track/album purchases from different countries.
+    - Business Problem 3: Understand the track/album purchases from different countries.
 ![image](https://user-images.githubusercontent.com/44321100/170893970-749fa676-ce3f-409e-8e8f-e00a5d779c2b.png)
 
     
