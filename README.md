@@ -36,21 +36,25 @@ https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSour
 ***
 *It will be good to answer the questions below using custom queries*
 
-a. Which artist is used in the most playlists?
+    a. Which artist is used in the most playlists?
 
-b. How many tracks have been purchased vs not purchased?
+    b. How many tracks have been purchased vs not purchased?
 
-c. Is the range of tracks in the store reflective of their sales popularity?
+    c. Is the range of tracks in the store reflective of their sales popularity?
 
-d. Do protected vs non-protected media types have an effect on popularity?
+    d. Do protected vs non-protected media types have an effect on popularity?
 
 
 4. *Files and descriptions in the repository*
 ***
 
-a. *.ipynb file* : Jupyter file that forms the main analysis file. Comprises of all the *SQL* queries.
-b. *.sql files* : Individual .sql files that can run independently, with an absolute path to the chinook.sqlite database
-c. *.sqlite database*: Chinook database (sqlite) that is being analysed in this project.
-d. *.pbix file* : Power BI file that has a connection to the attached database and also consists of the key charts. To make it work, install the sqlite ODBC driver, using this link: http://www.ch-werner.de/sqliteodbc/
-e. *ERD png*: Generated using dBeaver community edition.
+    a. *.ipynb file* : Jupyter file that forms the main analysis file. Comprises of all the *SQL* queries.
+
+    b. *.sql files* : Individual .sql files that can run independently, with an absolute path to the chinook.sqlite database
+
+    c. *.sqlite database*: Chinook database (sqlite) that is being analysed in this project.
+
+    d. *.pbix file* : Power BI file that has a connection to the attached database and also consists of the key charts. To make it work, install the sqlite ODBC driver, using this link: http://www.ch-werner.de/sqliteodbc/
+
+    e. *ERD png*: Generated using dBeaver community edition.
 
