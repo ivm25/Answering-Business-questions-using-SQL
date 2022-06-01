@@ -5,17 +5,17 @@
 ## Portfolio: Answering Busineess questions on Chinook database using SQL
 
 
-1. *Aim of the project*
-***
-Explore the Chinook database using SQL and provide the store with some actionable insights on the outlined Business problems.
+    1. *Aim of the project*
+    ***
+    Explore the Chinook database using SQL and provide the store with some actionable insights on the outlined Business problems.
 
-**Can we take an informed decision about the revenue indicators** 
-     **and communicate to the business teams and come up with away effective strategies?**
+    **Can we take an informed decision about the revenue indicators** 
+         **and communicate to the business teams and come up with away effective strategies?**
 
-The ERD of the Chinook database can be referenced here:
+    The ERD of the Chinook database can be referenced here:
 ![ERD_chinook](https://user-images.githubusercontent.com/44321100/171297555-cb119a2a-a0d6-4e8b-85bb-34f7943ff84a.png)
 
-- Charts: All charts are created in Power BI and are available for reference in the .pbix file, attached in the repository.
+-   Charts: All charts are created in Power BI and are available for reference in the .pbix file, attached in the repository.
 ***
     Business problems:
 ***
@@ -31,7 +31,7 @@ The ERD of the Chinook database can be referenced here:
     
 2. *Source of Data*
 
-https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSources
+    https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSources
 
 3. *Future Work*:
 ***
