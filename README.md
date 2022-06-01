@@ -5,12 +5,11 @@
 ## Portfolio: Answering Busineess questions on Chinook database using SQL
 
 
-    1. *Aim of the project*
-    ***
-    Explore the Chinook database using SQL and provide the store with some actionable insights on the outlined Business problems.
-
-    **Can we take an informed decision about the revenue indicators** 
-         **and communicate to the business teams and come up with away effective strategies?**
+    1. Aims of the project
+    
+    a. Explore the Chinook database using SQL and provide the store with some actionable insights on the outlined Business problems.
+    b. Can we take an informed decision about the rekey venue generating sources. 
+    c. Communicate to the business teams using charts and usable table results to come up with effective business strategies.
 
     The ERD of the Chinook database can be referenced here:
 ![ERD_chinook](https://user-images.githubusercontent.com/44321100/171297555-cb119a2a-a0d6-4e8b-85bb-34f7943ff84a.png)
