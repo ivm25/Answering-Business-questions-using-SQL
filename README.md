@@ -16,12 +16,11 @@
 
 -   Charts: All charts are created in Power BI and are available for reference in the .pbix file, attached in the repository.
 ***
-    Business problems:
+Business problems:
 ***
     - Business Problem 1: Helping the Business team at Chinook to understand which Genres sell the most, 
       in order to help the new deal with a record label. Focus Territory: USA
   
-
     - Business Problem 2: Identify which employees are bringing in most revenue sales.
 
     - Business Problem 3: Understand the track/album purchases from different countries.
